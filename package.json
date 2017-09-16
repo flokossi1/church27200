@@ -1,0 +1,33 @@
+{
+  "name": "church27200",
+  "version": "1.0.0",
+  "description": "Church application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flokossi1/church27200.git"
+  },
+  "author": "David Lks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flokossi1/church27200/issues"
+  },
+  "homepage": "https://github.com/flokossi1/church27200#readme",
+  "dependencies": {
+    "@angular/common": "^4.4.1",
+    "@angular/compiler": "^4.4.1",
+    "@angular/core": "^4.4.1",
+    "@angular/platform-browser": "^4.4.1",
+    "@angular/platform-browser-dynamic": "^4.4.1",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.17"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.43"
+  },
+  "keywords": []
+}
